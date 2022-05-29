@@ -14,6 +14,7 @@ yfinance = "^0.1.55"
 sklearn = "^0.0"
 matplotlib = "^3.3.4"
 Jinja2 = "^2.11.3"
+Flask-Gunicorn = "^0.1.1"
 
 [tool.poetry.dev-dependencies]
 
