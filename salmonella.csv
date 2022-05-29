@@ -1,0 +1,26 @@
+Year ,Disease Type ,Outbreaks,Illnesses,Hospitaliztions,Deaths,Location
+2017,Salmonella,11,299,16,0,Chicken
+2017,Salmonella,10,421,124,2,Fruits
+2017,Salmonella,2,580,12,0,Turkey
+2017,Salmonella,1,199,54,0,Other
+2017,Salmonella,2,178,35,0,Vegetable row crops
+2017,Salmonella,5,81,20,1,Eggs 
+2017,Salmonella,5,55,13,1,Pork
+2016,Salmonella,8,307,42,1,Chicken
+2016,Salmonella,6,96,12,0,Pork
+2016,Salmonella,2,110,44,1,Beef
+2016,Salmonella,4,138,23,0,Diary
+2015,Salmonella,9,62,9,0,Chicken
+2015,Salmonella,8,615,70,1,Pork
+2015,Salmonella,4,1048,225,6,Seeded vegetables
+2015,Salmonella,8,615,70,1,Pork 
+2015,Salmonella,2,263,2,0,Vegetable row crops
+2014,Salmonella,8,227,23,0,Chicken
+2014,Salmonella,5,357,68,1,Seeded vegetables
+2014,Salmonella,1,115,19,0,Sprouts
+2013,Salmonella,9,700,213,0,Chicken
+2013,Salmonella,8,436,65,0,Pork
+2013,Salmonella,5,268,44,0,Seeded vegetables
+2013,Salmonella,5,210,19,0,Beef
+2013,Salmonella,5,49,18,1,Fruits 
+2013,Salmonella,2,25,2,1,Nuts and seeds
